@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background:linear-gradient(lightgreen 0%,green 100%);
+}
+
+.login_1 , .login_2
+	{
+		background:cornflowerblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
